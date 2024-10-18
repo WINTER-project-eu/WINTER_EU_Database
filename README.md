@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png)">
+  <img width="460" height="300" src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png">
 </p>
 ![image](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png)
 ***
