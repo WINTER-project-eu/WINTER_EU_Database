@@ -1,7 +1,9 @@
 <p align="center">
   <img width="460" src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png">
 </p>
+
 ***
+
 ## WINTER_EU_Database
 
 *This project has received funding from the Research Fund for Coal and Steel (RFCS) under GRANT AGREEMENT No.101057228*
