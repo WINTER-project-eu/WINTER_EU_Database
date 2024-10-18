@@ -1,6 +1,3 @@
-p {
-    text-align: center;
-}
 <p align="center">
   <img width="360" src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png">
 
@@ -67,9 +64,7 @@ Below is a visual representation of the geodatabase structure:
   <img src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/geodatabase.png">
 </p>
 
-<p style="text-align: center;">
-Figure 1. Structure of the geodatabases created during the implementation of D4.1
-</p>
+<center>Figure 1. Structure of the geodatabases created during the implementation of D4.1</center>
 
 
 
