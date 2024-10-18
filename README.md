@@ -1,7 +1,6 @@
 <p align="center">
   <img width="460" src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png">
 </p>
-![image](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png)
 ***
 ## WINTER_EU_Database
 
