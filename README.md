@@ -52,6 +52,8 @@ The geospatial dataset consists of 6 geodatabases with a total of 50 feature cla
 + 2 geodatabases were created for the different regions.
 
 Below is a visual representation of the geodatabase structure:
+
+<img src="[image_url](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/geodatabase.png)" alt="Alt text" style="display: block; margin-left: auto; margin-right: auto;" />
 <div style="text-align: center;">
 ![image](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/geodatabase.png)
 <\div>
