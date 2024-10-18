@@ -1,10 +1,11 @@
 WINTER_EU_Database
 
 This project has received funding from the Research Fund for Coal and Steel (RFCS) under GRANT AGREEMENT No.101057228
+
 Project Overview
 
 The geodatabase developed within the framework of the project is available online at the following GitHub repository:
-WINTER_EU_DATABASE.
+[WINTER_EU_Database](https://github.com/WINTER-project-eu/WINTER_EU_Database).
 
 The database contains both spatial and non-spatial information, which includes:
 
