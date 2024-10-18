@@ -1,5 +1,7 @@
 ## WINTER_EU_Database
 
+https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png
+
 *This project has received funding from the Research Fund for Coal and Steel (RFCS) under GRANT AGREEMENT No.101057228*
 ***
 ### Project Overview
