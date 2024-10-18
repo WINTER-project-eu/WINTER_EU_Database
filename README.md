@@ -9,19 +9,20 @@ The geodatabase developed within the framework of the project is available onlin
 
 The database contains both spatial and non-spatial information, which includes:
 
-. Spatial data: Regional boundaries, land cover types, mining areas’ boundaries, etc.
-. Non-spatial data: Texts, photos, diagrams that are part of the narrative storytelling maps.
++ Spatial data: Regional boundaries, land cover types, mining areas’ boundaries, etc.
++ Non-spatial data: Texts, photos, diagrams that are part of the narrative storytelling maps.
 
-Narrative Storytelling Maps
+### Narrative Storytelling Maps
 
 The non-spatial data collected for this project will be used to develop narrative stories for the following regions:
 
-    Western Macedonia
-    Konin
-    Ruhr area
++ Western Macedonia
++ Konin
++ Ruhr area
 
 These stories are hosted on the ArcGIS Online platform and provide valuable insights into the regions. All non-spatial information used in the storytelling maps has been visualized and converted into PDF format. The PDFs are accessible online in the GitHub repository.
-Data Sources
+
+### Data Sources
 
 The table below lists the sources used for the web platform, categorized by type (spatial or non-spatial).
 Type	Data Layer/Description	Source	Resolution/Scale
