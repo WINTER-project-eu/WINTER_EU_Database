@@ -1,7 +1,9 @@
 <p align="center">
   <img width="460" src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/WINTER.png">
-### Project Overview
+
 </p>
+
+### Project Overview
 
 ***
 
