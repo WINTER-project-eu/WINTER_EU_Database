@@ -47,13 +47,11 @@ The geospatial dataset consists of 6 geodatabases with a total of 50 feature cla
   - Ruhr area
   - Geographical boundaries
 
-Subtask 2.3.2 Geodatabases
+### Subtask 2.3.2 Geodatabases
 
-    2 geodatabases were created for the different regions.
++ 2 geodatabases were created for the different regions.
 
 Below is a visual representation of the geodatabase structure:
-
-Geodatabase Structure
 
 ![image](https://github.com/user-attachments/assets/fd66c3bf-98a5-4415-b2f5-a260e514132c)
 
