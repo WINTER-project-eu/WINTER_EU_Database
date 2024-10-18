@@ -65,7 +65,7 @@ Below is a visual representation of the geodatabase structure:
 </p>
 <span style="font-size: 8px;">
 <p align="center">
-Figure 1. Structure of the geodatabases created during the implementation of D4.1
+[^1]: Figure 1. Structure of the geodatabases created during the implementation of D4.1
 </p>
 </span>
 
