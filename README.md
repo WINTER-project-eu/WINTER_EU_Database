@@ -53,7 +53,7 @@ The geospatial dataset consists of 6 geodatabases with a total of 50 feature cla
 
 Below is a visual representation of the geodatabase structure:
 
-![image](https://github.com/user-attachments/assets/fd66c3bf-98a5-4415-b2f5-a260e514132c)
+![image](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/geodatabase.png)
 
 Figure 1. Structure of the geodatabases created during the implementation of D4.1
 *** 
