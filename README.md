@@ -9,8 +9,8 @@ The geodatabase developed within the framework of the project is available onlin
 
 The database contains both spatial and non-spatial information, which includes:
 
-    Spatial data: Regional boundaries, land cover types, mining areas’ boundaries, etc.
-    Non-spatial data: Texts, photos, diagrams that are part of the narrative storytelling maps.
+. Spatial data: Regional boundaries, land cover types, mining areas’ boundaries, etc.
+. Non-spatial data: Texts, photos, diagrams that are part of the narrative storytelling maps.
 
 Narrative Storytelling Maps
 
