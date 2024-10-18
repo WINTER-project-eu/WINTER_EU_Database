@@ -63,11 +63,11 @@ Below is a visual representation of the geodatabase structure:
 <p align="center">
   <img src="https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/geodatabase.png">
 </p>
-<h6>
+
 <p style="text-align: center;font-size: 10px">
 Figure 1. Structure of the geodatabases created during the implementation of D4.1
 </p>
-</h6>
+
 
 
 *** 
