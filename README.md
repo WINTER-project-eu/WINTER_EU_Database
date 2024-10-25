@@ -22,7 +22,7 @@ The database contains both spatial and non-spatial information, which includes:
 ### Narrative Storytelling Maps
 
 The non-spatial data collected for this project will be used to develop narrative stories for the following regions:
-https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/Database_WINTER/Data/media%20analysis.pdf
+
 [View or Download PDF](https://raw.githubusercontent.com/WINTER-project-eu/WINTER_EU_Database/main/Database_WINTER/Data/media%20analysis.pdf)
 + Western Macedonia -> [PDF Documentation](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/Database_WINTER/Data/Western%20Macedonia%20region%2C%20Greece.pdf)
 + Konin -> [PDF Documentation](https://github.com/WINTER-project-eu/WINTER_EU_Database/blob/main/Database_WINTER/Data/Konin%20region%2C%20Poland.pdf)
